@@ -1,0 +1,7 @@
+1. [[Fundamentos del diseño de computadoras]]
+2. [[Introducción a la arquitectura de computadoras]]
+3. [[Almacenamiento de datos]]
+4. [[Entrada/Salida]]
+5. [[Unidad de procesamiento]]
+6. [[Arquitectura del conjunto de instrucciones]]
+7. [[Arquitecturas alternativas de computadoras]]

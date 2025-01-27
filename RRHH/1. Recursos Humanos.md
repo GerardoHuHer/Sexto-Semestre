@@ -1,0 +1,29 @@
+# Áreas de una empresa.
+
+## ¿Qué son los recursos Humanos?
+Área de una organización que se encarga de gestionar el capital humano.
+# Áreas que existen dentro de recursos humanos:
+### Reclutamiento y selección del talento.
+### Capacitación y desarrollo: 
+Da capacitación constante a los colaboradores y ver sus áreas de oportunidad.
+### Gestión de talento: 
+Visualizar y observar a los colaboradores, para ver hacia donde está esa persona, cuál sería su camino en la empresa, cómo puede crecer una persona en la empresa.
+### Compensación: 
+Busca tener un equilibrio entre el trabajo y la vida personal, beneficios con las diversas empresas, pero también el sueldo, valor agregado para que los colaboradores se queden en una empresa.
+### Relaciones laborales: 
+### Evaluación de desempeño: 
+Te voy a evaluar para ver, yo cómo empresa cómo te puedo ayudar para ver cómo puedes alcanzar el nivel que estamos buscando.
+
+# ¿Por qué es importante en los negocios?
+Es regular la parte de empresa, sus objetivos y la parte humana, es la parte neutral de la empresa, escucha la gerencia y todos los altos mandos y los colaboradores, se tiene que poner un equilibrio para ver que se necesita para mejorar la empresa
+# ¿Por qué es importante que un líder sea un "experto" en RH?
+Es importante porque es él el que tiene que cuidar el poder alcanzar los objetivos de la empresa y tener a la persona bien en la empresa, tienes que estar manteniendo las rotaciones estables, para que la parte de capacitación 
+Todos entran en un periodo de prueba de tres meses, en este periodo se busca ver si la persona se puede adaptar a la empresa, sus objetivos y todo lo que la empresa busca.
+El líder gestiona a las persona claves para el éxito de una organización.
+
+# Hola
+	asñflkasjdfñlkj
+```
+def greetings(name: str):
+	print(f"Hello, {name}")
+```

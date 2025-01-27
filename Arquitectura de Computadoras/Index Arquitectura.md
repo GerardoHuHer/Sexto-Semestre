@@ -5,3 +5,4 @@
 5. [[Unidad de procesamiento]]
 6. [[Arquitectura del conjunto de instrucciones]]
 7. [[Arquitecturas alternativas de computadoras]]
+8. [[Glosario Arquitectura]]

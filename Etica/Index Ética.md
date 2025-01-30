@@ -1,10 +1,18 @@
 
 1. [[La ética como saber científico y práctico]]
+2. [[Aristóteles]]
+
 [[Glosario Ética]]
 
 
 # Resúmenes de Lectura
 1. [[PLATÓN República, libro II, 359a  - 360d]]
+2. fasd
+3. [[Aristóteles Ética nicomáquea, libro III caps 1-5]]
+
+# Glosario
+---
+[[Glosario Ética]]
 
 Primer parcial 25%
 Segundo parcial 25%

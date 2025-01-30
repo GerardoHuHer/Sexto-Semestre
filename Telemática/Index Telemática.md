@@ -1,5 +1,8 @@
 1. [[Fundamentals of Networking]]
+2. [[FUNDAMENTALS OF WAN & IP ROUTING]]
 
+
+[[Index Free CCNA]]
 
 
 Official Cert Guide CCNA 200-301 Volumes 1 & 2 - Wendell Odom

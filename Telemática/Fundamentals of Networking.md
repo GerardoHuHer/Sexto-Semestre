@@ -146,7 +146,45 @@ La regla de oro de redes, el que manda es el más débil.
 
 Automdix: Le decía a la tarjeta, cambia de receptor a transmisor y viceversa, así es cómo se crea el cable directo.
 
+Los switch siempre buscan MACaddress y los routers IP salvo los switch multicapas.
+
+
+## ¿Qué es la fibra óptica?
 ---
+
+Esta hecho de fibra de vidrio, tenemos un núcleo, con un revestimiento, un búfer, luego material de refuerzo, envoltura.
+
+La fibra de vidrio refracta, es decir una parte se refleja y otra parte pasa, con la fibra de vidrio la intención es que la mayor parte pase, es decir que el nivel de refracción aumente y la reflexión disminuya.
+
+Existen de dos tipos:
+Multimode: Diferentes haces de luz, con diferntes ángulos.
+Single mode: Un haz de luz
+![[Pasted image 20250127164111.png]]
+
+
+
+**Inserta foto de tabla**
+
+
+## Sending data
+---
+Hablemos de Data-Link layer
+Ethernet Frame
+
+
+Un checksum verifica que todo lo que mandé esté bien 
+La MACAddress o dirección física se da en la tarjeta de red
+
+
+El switch es un dispositivo de capa 2.j
+
+Unicast 1 a 1.
+Multicast 1 a varios.
+Broadcast 1 a todos, el hub solo hace esto y el switch hace de todo.
+
+---
+
+
 
 Tarea
 - [ ] traer cable UTP categoría 6 en steren. 2 metros 

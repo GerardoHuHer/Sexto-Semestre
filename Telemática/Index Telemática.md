@@ -1,5 +1,6 @@
 1. [[Fundamentals of Networking]]
 2. [[FUNDAMENTALS OF WAN & IP ROUTING]]
+3. [[Implementing Ethernet LAN's (Switching)]]
 
 
 [[Index Free CCNA]]
@@ -11,8 +12,8 @@ Network chock
 David Bomball
 
 Cisco packet tracer.
-1. Skills 4 all con la cuenta de la UP
-2. Resources > Download Cisco PKT
+4. Skills 4 all con la cuenta de la UP
+5. Resources > Download Cisco PKT
 
 Wireshark
 
